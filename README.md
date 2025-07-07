@@ -23,8 +23,6 @@
 
 * 📧 Reach me at: **[thakkarmeet119@gmail.com](mailto:thakkarmeet119@gmail.com)**
 
-* 📝 Check my resume: [https://turquoise-elga-54.tiiny.site/](https://turquoise-elga-54.tiiny.site/)
-
 * ✨ Fun fact: **I debug with music and celebrate builds like it's the Cricket finals 🏏💻. React stole my heart ❤️⚛️. I turn tea into code, bugs into features, and font tests into apps ☕️📱.**
 
 <h3 align="left">Connect with me:</h3>
